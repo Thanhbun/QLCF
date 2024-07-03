@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel Id="BOModel">
+    <Class Name="QLCF.Module.BusinessObjects.database.Doanhthu">
+      <OwnMembers Id="OwnMembers">
+        <Member Name="Chira" DisplayFormat="{0:### ### ###}" />
+        <Member Name="Thuvao" DisplayFormat="{0:### ### ###}" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Views Id="Views">
+    <DetailView Id="Doanhthu_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="Chira" DisplayFormat="{0:### ### ###}" />
+        <PropertyEditor Id="Thuvao" DisplayFormat="{0:### ### ###}" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

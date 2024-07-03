@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel Id="BOModel">
+    <Class Name="QLCF.Module.BusinessObjects.database.Donhang">
+      <OwnMembers Id="OwnMembers">
+        <Member Name="Ngaydathang" DisplayFormat="{0:dd/MM/yyyy }" />
+      </OwnMembers>
+    </Class>
+    <Class Name="QLCF.Module.BusinessObjects.database.HoadonCT">
+      <OwnMembers Id="OwnMembers">
+        <Member Name="Gia" DisplayFormat="{0:### ### ###}" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Views Id="Views">
+    <DetailView Id="HoadonCT_DetailView">
+      <Items Id="Items">
+        <PropertyEditor Id="Gia" DisplayFormat="{0:### ### ###}" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>

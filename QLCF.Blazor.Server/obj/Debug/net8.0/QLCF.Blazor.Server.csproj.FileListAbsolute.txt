@@ -490,3 +490,4 @@ D:\CNPM\QLCF\QLCF\QLCF.Blazor.Server\obj\Debug\net8.0\refint\QLCF.Blazor.Server.
 D:\CNPM\QLCF\QLCF\QLCF.Blazor.Server\obj\Debug\net8.0\QLCF.Blazor.Server.pdb
 D:\CNPM\QLCF\QLCF\QLCF.Blazor.Server\obj\Debug\net8.0\QLCF.Blazor.Server.genruntimeconfig.cache
 D:\CNPM\QLCF\QLCF\QLCF.Blazor.Server\obj\Debug\net8.0\ref\QLCF.Blazor.Server.dll
+D:\CNPM\QLCF\QLCF\QLCF.Blazor.Server\obj\Debug\net8.0\QLCF.Blazor.Server.sourcelink.json

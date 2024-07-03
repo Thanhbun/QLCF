@@ -26,18 +26,6 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fMathanhtoan; }
             set { SetPropertyValue<string>(nameof(Mathanhtoan), ref fMathanhtoan, value); }
         }
-        decimal fSotien;
-        public decimal Sotien
-        {
-            get { return fSotien; }
-            set { SetPropertyValue<decimal>(nameof(Sotien), ref fSotien, value); }
-        }
-        string fTrangthaithanhtoan;
-        public string Trangthaithanhtoan
-        {
-            get { return fTrangthaithanhtoan; }
-            set { SetPropertyValue<string>(nameof(Trangthaithanhtoan), ref fTrangthaithanhtoan, value); }
-        }
         Hoadon fMahoadon;
         [Association(@"ThanhtoanReferencesHoadon")]
         public Hoadon Mahoadon
@@ -45,19 +33,34 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fMahoadon; }
             set { SetPropertyValue<Hoadon>(nameof(Mahoadon), ref fMahoadon, value); }
         }
-        Taikhoan fMataikhoan;
-        [Association(@"ThanhtoanReferencesTaikhoan")]
-        public Taikhoan Mataikhoan
+        decimal fSotien;
+        public decimal Sotien
         {
-            get { return fMataikhoan; }
-            set { SetPropertyValue<Taikhoan>(nameof(Mataikhoan), ref fMataikhoan, value); }
+            get
+            {
+                if (Mahoadon != null)
+                {
+                    var hoadonCT = Mahoadon.HoadonCTs.FirstOrDefault();
+                    if (hoadonCT != null)
+                    {
+                        fSotien = hoadonCT.Thanhtien;
+                    }
+                }
+                return fSotien;
+
+            }
+            
         }
-        Khachhang fSDTkhachhang;
-        [Association(@"ThanhtoanReferencesKhachhang")]
-        public Khachhang SDTkhachhang
+        TrangthaiTT fTrangthai;
+        [Association(@"ThanhtoanReferencesTrangthaiTT")] 
+        public TrangthaiTT Trangthai
         {
-            get { return fSDTkhachhang; }
-            set { SetPropertyValue<Khachhang>(nameof(SDTkhachhang), ref fSDTkhachhang, value); }
+            get 
+            {
+                
+                return fTrangthai  ;
+            }
+            set { SetPropertyValue<TrangthaiTT>(nameof(Trangthai), ref fTrangthai, value); }
         }
     }
 

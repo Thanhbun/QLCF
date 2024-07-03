@@ -22,3 +22,4 @@ D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
+D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json

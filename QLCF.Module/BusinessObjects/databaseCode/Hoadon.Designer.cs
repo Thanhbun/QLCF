@@ -13,9 +13,11 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
+using DevExpress.Persistent.Base;
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    [DefaultClassOptions]
+    [NavigationItem]
     public partial class Hoadon : XPObject
     {
         short fMahoadon;
@@ -30,19 +32,6 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fNgaytao; }
             set { SetPropertyValue<DateTime>(nameof(Ngaytao), ref fNgaytao, value); }
         }
-        Menu fMasanpham;
-        public Menu Masanpham
-        {
-            get { return fMasanpham; }
-            set { SetPropertyValue<Menu>(nameof(Masanpham), ref fMasanpham, value); }
-        }
-        Donhang fMadonhang;
-        [Association(@"HoadonReferencesDonhang")]
-        public Donhang Madonhang
-        {
-            get { return fMadonhang; }
-            set { SetPropertyValue<Donhang>(nameof(Madonhang), ref fMadonhang, value); }
-        }
         Taikhoan fMataikhoan;
         [Association(@"HoadonReferencesTaikhoan")]
         public Taikhoan Mataikhoan
@@ -50,10 +39,19 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fMataikhoan; }
             set { SetPropertyValue<Taikhoan>(nameof(Mataikhoan), ref fMataikhoan, value); }
         }
+        TrangthaiHD fTrangthai;
+        [Association(@"HoadonReferencesTrangthai")]
+        public TrangthaiHD Trangthai
+        {
+            get { return fTrangthai; }
+            set { SetPropertyValue<TrangthaiHD>(nameof(Trangthai), ref fTrangthai, value); }
+        }
         [Association(@"HoadonCTReferencesHoadon")]
         public XPCollection<HoadonCT> HoadonCTs { get { return GetCollection<HoadonCT>(nameof(HoadonCTs)); } }
         [Association(@"ThanhtoanReferencesHoadon")]
         public XPCollection<Thanhtoan> Thanhtoans { get { return GetCollection<Thanhtoan>(nameof(Thanhtoans)); } }
+        [Association(@"DoanhthuReferencesHoadon")]
+        public XPCollection<Doanhthu> Doanhthus { get { return GetCollection<Doanhthu>(nameof(Doanhthus)); } }
     }
 
 }

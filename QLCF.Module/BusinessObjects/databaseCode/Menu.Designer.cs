@@ -39,20 +39,14 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fTensanpham; }
             set { SetPropertyValue<string>(nameof(Tensanpham), ref fTensanpham, value); }
         }
-        long fGiatien;
-        public long Giatien
+        decimal fGiatien;
+        public decimal Giatien
         {
             get { return fGiatien; }
-            set { SetPropertyValue<long>(nameof(Giatien), ref fGiatien, value); }
+            set { SetPropertyValue<decimal>(nameof(Giatien), ref fGiatien, value); }
         }
-        short fSoluongconlai;
-        public short Soluongconlai
-        {
-            get { return fSoluongconlai; }
-            set { SetPropertyValue<short>(nameof(Soluongconlai), ref fSoluongconlai, value); }
-        }
-        [Association(@"DonhangReferencesMenu")]
-        public XPCollection<Donhang> Donhangs { get { return GetCollection<Donhang>(nameof(Donhangs)); } }
+        [Association(@"HoadonCTReferencesMenu")]
+        public XPCollection<HoadonCT> HoadonCTs { get { return GetCollection<HoadonCT>(nameof(HoadonCTs)); } }
     }
 
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QLCF.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2bacbcff601144d8e5739143c813ce8effc678")]
 [assembly: System.Reflection.AssemblyProductAttribute("QLCF.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QLCF.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

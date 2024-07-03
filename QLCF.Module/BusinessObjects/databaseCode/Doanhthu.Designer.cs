@@ -20,29 +20,37 @@ namespace QLCF.Module.BusinessObjects.database
     [NavigationItem]
     public partial class Doanhthu : XPObject
     {
+        Hoadon fMaHD;
+        [Association(@"DoanhthuReferencesHoadon")]
+        public Hoadon MaHD
+        {
+            get { return fMaHD; }
+            set { SetPropertyValue<Hoadon>(nameof(MaHD), ref fMaHD, value); }
+        }
         DateTime fNgay;
         public DateTime Ngay
         {
-            get { return fNgay; }
-            set { SetPropertyValue<DateTime>(nameof(Ngay), ref fNgay, value); }
-        }
-        decimal fChira;
-        public decimal Chira
-        {
-            get { return fChira; }
-            set { SetPropertyValue<decimal>(nameof(Chira), ref fChira, value); }
-        }
-        decimal fThuvao;
-        public decimal Thuvao
-        {
-            get { return fThuvao; }
-            set { SetPropertyValue<decimal>(nameof(Thuvao), ref fThuvao, value); }
+            get
+            {
+                if (MaHD != null)
+                {
+                    fNgay = MaHD.Ngaytao;
+                }
+                return fNgay;
+            }
         }
         decimal fTong;
         public decimal Tong
         {
-            get { return fTong; }
-            set { SetPropertyValue<decimal>(nameof(Tong), ref fTong, value); }
+            get
+            {
+                if (MaHD != null)
+                {
+                    fTong = MaHD.HoadonCTs.Sum(ct => ct.Thanhtien);
+                }
+                return fTong;
+            }
+            
         }
     }
 

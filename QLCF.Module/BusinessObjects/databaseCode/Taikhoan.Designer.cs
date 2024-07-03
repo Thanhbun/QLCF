@@ -70,8 +70,6 @@ namespace QLCF.Module.BusinessObjects.database
         }
         [Association(@"LuongReferencesTaikhoan")]
         public XPCollection<Luong> Luongs { get { return GetCollection<Luong>(nameof(Luongs)); } }
-        [Association(@"ThanhtoanReferencesTaikhoan")]
-        public XPCollection<Thanhtoan> Thanhtoans { get { return GetCollection<Thanhtoan>(nameof(Thanhtoans)); } }
         [Association(@"HoadonReferencesTaikhoan")]
         public XPCollection<Hoadon> Hoadons { get { return GetCollection<Hoadon>(nameof(Hoadons)); } }
     }

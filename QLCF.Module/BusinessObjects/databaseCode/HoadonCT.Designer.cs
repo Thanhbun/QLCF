@@ -27,11 +27,24 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fMaHDCT; }
             set { SetPropertyValue<Hoadon>(nameof(MaHDCT), ref fMaHDCT, value); }
         }
+        Menu fMasanpham;
+        [Association(@"HoadonCTReferencesMenu")]
+        public Menu Masanpham
+        {
+            get { return fMasanpham; }
+            set { SetPropertyValue<Menu>(nameof(Masanpham), ref fMasanpham, value); }
+        }
         string fTensanpham;
         public string Tensanpham
         {
-            get { return fTensanpham; }
-            set { SetPropertyValue<string>(nameof(Tensanpham), ref fTensanpham, value); }
+            get
+            {
+                if (Masanpham != null)
+                {
+                    fTensanpham = Masanpham.Tensanpham;
+                }
+                return fTensanpham;
+            }
         }
         short fSoluong;
         public short Soluong
@@ -39,17 +52,18 @@ namespace QLCF.Module.BusinessObjects.database
             get { return fSoluong; }
             set { SetPropertyValue<short>(nameof(Soluong), ref fSoluong, value); }
         }
-        decimal fGia;
-        public decimal Gia
-        {
-            get { return fGia; }
-            set { SetPropertyValue<decimal>(nameof(Gia), ref fGia, value); }
-        }
         decimal fThanhtien;
         public decimal Thanhtien
         {
-            get { return fThanhtien; }
-            set { SetPropertyValue<decimal>(nameof(Thanhtien), ref fThanhtien, value); }
+            get 
+            { 
+                if(Masanpham != null)
+                {
+                    fThanhtien = (decimal)Soluong * Masanpham.Giatien;
+                }
+                return fThanhtien; 
+            }
+            
         }
     }
 

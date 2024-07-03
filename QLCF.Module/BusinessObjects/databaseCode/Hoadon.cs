@@ -11,9 +11,10 @@ namespace QLCF.Module.BusinessObjects.database
     public partial class Hoadon
     {
         public Hoadon(Session session) : base(session) { }
-        public override void AfterConstruction() { 
-            base.AfterConstruction();
-            if (Session.IsNewObject(this))
+        public override void AfterConstruction()
+        {
+            base.AfterConstruction(); 
+            if(Session.IsNewObject(this))
             {
                 Ngaytao = DateTime.Now;
             }

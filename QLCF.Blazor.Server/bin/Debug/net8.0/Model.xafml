@@ -3,15 +3,8 @@
   <BOModel>
     <Class Name="QLCF.Module.BusinessObjects.database.Doanhthu">
       <OwnMembers>
-        <Member Name="Chira" DisplayFormat="{0:### ### ###}" />
-        <Member Name="Ngay" DisplayFormat="{0:dd/MM/yyyy HH:mm}" />
-        <Member Name="Thuvao" DisplayFormat="{0:### ### ###}" />
+        <Member Name="Ngay" DisplayFormat="{0:dd/MM/yyyy }" />
         <Member Name="Tong" DisplayFormat="{0:### ### ###}" />
-      </OwnMembers>
-    </Class>
-    <Class Name="QLCF.Module.BusinessObjects.database.Donhang">
-      <OwnMembers>
-        <Member Name="Ngaydathang" DisplayFormat="{0:dd/MM/yyyy }" />
       </OwnMembers>
     </Class>
     <Class Name="QLCF.Module.BusinessObjects.database.Hoadon">
@@ -21,13 +14,22 @@
     </Class>
     <Class Name="QLCF.Module.BusinessObjects.database.HoadonCT">
       <OwnMembers>
-        <Member Name="Gia" DisplayFormat="{0:### ### ###}" />
         <Member Name="Thanhtien" DisplayFormat="{0:### ### ###}" />
       </OwnMembers>
     </Class>
     <Class Name="QLCF.Module.BusinessObjects.database.Luong">
       <OwnMembers>
         <Member Name="Tienluong" DisplayFormat="{0:### ### ###}" />
+      </OwnMembers>
+    </Class>
+    <Class Name="QLCF.Module.BusinessObjects.database.Menu">
+      <OwnMembers>
+        <Member Name="Giatien" DisplayFormat="{0:### ### ###}" />
+      </OwnMembers>
+    </Class>
+    <Class Name="QLCF.Module.BusinessObjects.database.Thanhtoan">
+      <OwnMembers>
+        <Member Name="Sotien" DisplayFormat="{0:### ### ###}" />
       </OwnMembers>
     </Class>
   </BOModel>
@@ -42,10 +44,22 @@
   <Views>
     <DetailView Id="Doanhthu_DetailView">
       <Items>
-        <PropertyEditor Id="Chira" DisplayFormat="{0:### ### ###}" />
-        <PropertyEditor Id="Thuvao" DisplayFormat="{0:### ### ###}" />
         <PropertyEditor Id="Tong" DisplayFormat="{0:### ### ###}" />
       </Items>
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="100">
+            <LayoutGroup Id="Doanhthu" RelativeSize="11.932555123216602">
+              <LayoutItem Id="MaHD" ViewItem="MaHD" Index="0" RelativeSize="36.95652173913044" IsNewNode="True" Removed="True" />
+              <LayoutItem Id="Ngay" RelativeSize="28.26086956521739" Index="1" />
+              <LayoutItem Id="Tong" RelativeSize="34.78260869565217" Index="2" />
+            </LayoutGroup>
+            <LayoutGroup Id="XPObject" Caption="Oid" RelativeSize="88.0674448767834">
+              <LayoutItem Id="Oid" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
     </DetailView>
     <DetailView Id="Hoadon_DetailView">
       <Items>
@@ -59,7 +73,6 @@
     </ListView>
     <DetailView Id="HoadonCT_DetailView">
       <Items>
-        <PropertyEditor Id="Gia" DisplayFormat="{0:### ### ###}" />
         <PropertyEditor Id="Thanhtien" DisplayFormat="{0:### ### ###}" />
       </Items>
     </DetailView>
