@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VR8CAMxkb70S+25y+yVY7diWurugG4cZRoiSk6MuKS4=",
+  "Hash": "DXZ8PHSU72YmUl8ufUWJndbhIDGBhjqdZlcxoWyG+kY=",
   "Source": "QLCF.Blazor.Server",
   "BasePath": "_content/QLCF.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QLCF.Blazor.Server\\wwwroot",
       "Source": "QLCF.Blazor.Server",
-      "ContentRoot": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "Pattern": "**"
     }
@@ -3285,6 +3285,25 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\capturemanager-43e041e5.js"
     },
     {
+      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\chart-59ba9e7b.js",
+      "SourceId": "DevExpress.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
+      "BasePath": "_content/DevExpress.Blazor",
+      "RelativePath": "modules/chart-59ba9e7b.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\chart-59ba9e7b.js"
+    },
+    {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\columnchooser-61b4ef96.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
@@ -3587,25 +3606,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\custom-theme-generator-7fa40928.js"
-    },
-    {
-      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\chart-59ba9e7b.js",
-      "SourceId": "DevExpress.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
-      "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/chart-59ba9e7b.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\chart-59ba9e7b.js"
     },
     {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\data-qa-utils-8be7c726.js",
@@ -4026,6 +4026,25 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-calendar-725d0d8d.js"
     },
     {
+      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-check-internal-e653f9b0.js",
+      "SourceId": "DevExpress.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
+      "BasePath": "_content/DevExpress.Blazor",
+      "RelativePath": "modules/dx-check-internal-e653f9b0.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-check-internal-e653f9b0.js"
+    },
+    {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-combobox-c1b0bf89.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
@@ -4100,25 +4119,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-css-runtime-b3e20aad.js"
-    },
-    {
-      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-check-internal-e653f9b0.js",
-      "SourceId": "DevExpress.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
-      "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/dx-check-internal-e653f9b0.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-check-internal-e653f9b0.js"
     },
     {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\dx-date-edit-base-62b5ba67.js",
@@ -4900,6 +4900,25 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\enumConverter-6047c3ff.js"
     },
     {
+      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js",
+      "SourceId": "DevExpress.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
+      "BasePath": "_content/DevExpress.Blazor",
+      "RelativePath": "modules/eventhelper-8570b930.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js"
+    },
+    {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\eventRegister-fb9b0e47.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
@@ -4974,25 +4993,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\events-interseptor-35e91aec.js"
-    },
-    {
-      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js",
-      "SourceId": "DevExpress.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
-      "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/eventhelper-8570b930.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\eventhelper-8570b930.js"
     },
     {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\evt-e106b696.js",
@@ -5774,6 +5774,25 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\root-keyboard-strategy-a59ce00d.js"
     },
     {
+      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\scheduler-bbe26744.js",
+      "SourceId": "DevExpress.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
+      "BasePath": "_content/DevExpress.Blazor",
+      "RelativePath": "modules/scheduler-bbe26744.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\scheduler-bbe26744.js"
+    },
+    {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\screenhelper-cc818363.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
@@ -5810,25 +5829,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\scroll-viewer-css-classes-4d6797bc.js"
-    },
-    {
-      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\scheduler-bbe26744.js",
-      "SourceId": "DevExpress.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
-      "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/scheduler-bbe26744.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\scheduler-bbe26744.js"
     },
     {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\single-slot-element-base-3afabaf0.js",
@@ -5945,6 +5945,25 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\text-editor-86b5c4cd.js"
     },
     {
+      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\thumb-c80aa4fc.js",
+      "SourceId": "DevExpress.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
+      "BasePath": "_content/DevExpress.Blazor",
+      "RelativePath": "modules/thumb-c80aa4fc.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\thumb-c80aa4fc.js"
+    },
+    {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\toolbar-6f7d4f10.js",
       "SourceId": "DevExpress.Blazor",
       "SourceType": "Package",
@@ -6019,25 +6038,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\touch-4bff3f51.js"
-    },
-    {
-      "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\thumb-c80aa4fc.js",
-      "SourceId": "DevExpress.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\",
-      "BasePath": "_content/DevExpress.Blazor",
-      "RelativePath": "modules/thumb-c80aa4fc.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\thumb-c80aa4fc.js"
     },
     {
       "Identity": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.blazor\\24.1.3\\staticwebassets\\modules\\transformhelper-ebad0156.js",
@@ -6990,10 +6990,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.expressapp.office.blazor\\24.1.3\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -7009,10 +7009,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -7028,10 +7028,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "images/Logo.svg",
       "AssetKind": "All",
@@ -7047,10 +7047,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CNPM\\QLCF\\QLCF\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "images/SplashScreen.svg",
       "AssetKind": "All",

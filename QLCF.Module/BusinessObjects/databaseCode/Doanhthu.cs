@@ -5,13 +5,19 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
+
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    // Class Doanhthu: Quản lý doanh thu của hóa đơn
     public partial class Doanhthu
     {
+        // Constructor Doanhthu: Nhận session và truyền nó cho base class
         public Doanhthu(Session session) : base(session) { }
-        public override void AfterConstruction() { base.AfterConstruction(); }
-    }
 
+        // Method AfterConstruction: Được gọi sau khi đối tượng được khởi tạo
+        public override void AfterConstruction()
+        {
+            base.AfterConstruction();
+        }
+    }
 }
