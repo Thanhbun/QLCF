@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj": {}
+    "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj": {}
   },
   "projects": {
-    "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj": {
+    "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+        "projectUniqueName": "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
         "projectName": "QLCF.Blazor.Server",
-        "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\obj\\",
+        "projectPath": "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+        "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
+        "outputPath": "E:\\test\\QLCF\\QLCF.Blazor.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\DevExpress\\Components\\Offline Packages",
+          "D:\\devExpress24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\My PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,17 +28,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\devExpress24.1\\Components\\System\\Components\\Packages": {},
+          "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj": {
-                "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj"
+              "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
+                "projectPath": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
               }
             }
           }
@@ -49,6 +47,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -123,29 +126,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj": {
+    "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
+        "projectUniqueName": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj",
         "projectName": "QLCF.Module",
-        "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\obj\\",
+        "projectPath": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj",
+        "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
+        "outputPath": "E:\\test\\QLCF\\QLCF.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\DevExpress\\Components\\Offline Packages",
+          "D:\\devExpress24.1\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\My PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,9 +154,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\devExpress24.1\\Components\\System\\Components\\Packages": {},
+          "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -168,6 +169,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -267,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
