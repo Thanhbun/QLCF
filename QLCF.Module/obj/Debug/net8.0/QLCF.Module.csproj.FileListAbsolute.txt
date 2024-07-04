@@ -36,3 +36,16 @@ D:\DTU\summer_ss3\cnpm\clone2\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.
 D:\DTU\summer_ss3\cnpm\clone2\QLCF.git\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
 D:\DTU\summer_ss3\cnpm\clone2\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
 D:\DTU\summer_ss3\cnpm\clone2\QLCF.git\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\bin\Debug\net8.0\QLCF.Module.deps.json
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\bin\Debug\net8.0\QLCF.Module.dll
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\bin\Debug\net8.0\QLCF.Module.pdb
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.AssemblyReference.cache
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfoInputs.cache
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfo.cs
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.CoreCompileInputs.cache
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
+D:\DTU\summer_ss3\cnpm\clone ff 1\QLCF.git\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll

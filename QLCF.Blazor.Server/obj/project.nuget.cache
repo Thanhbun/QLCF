@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0snr5THhXeG2ESxtsQxLG6oyNEfR+dJaF0B1LXQMn7hys/bLCWVjBlt260UJPsw4xfVKScIGWKuYAqGU+ZbZ3A==",
+  "dgSpecHash": "/gPDCKTp82ykpt/huFGImkj8Naw/qL2fQk1bZ1L8pqVcszWs/pFCCLRayOZIvzeoVpEbNaEmcoQaEnUiMU4SuA==",
   "success": true,
-  "projectFilePath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+  "projectFilePath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

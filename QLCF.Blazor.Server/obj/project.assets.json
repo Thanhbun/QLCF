@@ -7622,11 +7622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "projectUniqueName": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
       "projectName": "QLCF.Blazor.Server",
-      "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\obj\\",
+      "outputPath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -7654,8 +7654,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj": {
-              "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj"
+            "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj": {
+              "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj"
             }
           }
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DXZ8PHSU72YmUl8ufUWJndbhIDGBhjqdZlcxoWyG+kY=",
+  "Hash": "jGEmDy1uCvdrQSUEo0Psn5i42Z0WKjcwy9axrdusLQ8=",
   "Source": "QLCF.Blazor.Server",
   "BasePath": "_content/QLCF.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QLCF.Blazor.Server\\wwwroot",
       "Source": "QLCF.Blazor.Server",
-      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "Pattern": "**"
     }
@@ -6990,10 +6990,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.expressapp.office.blazor\\24.1.3\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -7009,10 +7009,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -7028,10 +7028,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "images/Logo.svg",
       "AssetKind": "All",
@@ -7047,10 +7047,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "QLCF.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/QLCF.Blazor.Server",
       "RelativePath": "images/SplashScreen.svg",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zoyHXabVZJpHydwpb9PrEzCRFxnpNP2/CEUoQhMG4PxmTDopzqnZEs2P3aB0DQuKW6tCMPezesr7gLfTowuzdw==",
+  "dgSpecHash": "aKqSzSBk7EpMCNEatxJBsj/DyuoYM21THwiPvp+ChG25//7wbxO4Y7t6C/qhso7k+JaNFjv0E7rXQSk19qh10A==",
   "success": true,
-  "projectFilePath": "D:\\DTU\\summer_ss3\\cnpm\\clone2\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
+  "projectFilePath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
