@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QLCF.Module
-build_property.ProjectDir = D:\DTU\summer_ss3\cnpm\clone2\QLCF.git\QLCF.Module\
+build_property.ProjectDir = E:\test\QLCF\QLCF.Module\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
