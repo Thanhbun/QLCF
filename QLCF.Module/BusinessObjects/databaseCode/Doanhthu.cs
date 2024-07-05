@@ -8,6 +8,9 @@ using System.Reflection;
 /*
  đây la comand line nhanh_2
  */
+/*
+ đây la comand line nhanh_3
+ */
 namespace QLCF.Module.BusinessObjects.database
 {
     // Class Doanhthu: Quản lý doanh thu của hóa đơn
