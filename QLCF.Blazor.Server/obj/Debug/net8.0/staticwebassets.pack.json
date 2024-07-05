@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -14,6 +15,21 @@
     },
     {
       "Id": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+=======
+      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+>>>>>>> dff4a59c0d0ab968a76de5450943bc25efe0ef44
       "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
     },
     {

@@ -5,7 +5,9 @@ using DevExpress.Data.Filtering;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
-
+/*
+ đây la comand line nhanh_2
+ */
 namespace QLCF.Module.BusinessObjects.database
 {
     // Class Doanhthu: Quản lý doanh thu của hóa đơn
