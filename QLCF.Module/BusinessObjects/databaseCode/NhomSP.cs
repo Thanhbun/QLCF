@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Reflection;
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    // thiên task 2 nhóm sản phẩm
     public partial class NhomSP
     {
         public NhomSP(Session session) : base(session) { }
