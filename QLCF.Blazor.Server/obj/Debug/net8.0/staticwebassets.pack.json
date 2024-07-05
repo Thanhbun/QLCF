@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
+      "Id": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
+      "Id": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Id": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "PackagePath": "staticwebassets\\images\\Logo.svg"
     },
     {
-      "Id": "E:\\test\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Id": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
     },
     {

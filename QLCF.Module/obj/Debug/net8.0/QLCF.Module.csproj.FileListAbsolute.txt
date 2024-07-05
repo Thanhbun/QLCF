@@ -36,3 +36,16 @@ E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.deps.json
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.dll
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.pdb
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfoInputs.cache
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfo.cs
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
+D:\Công Nghệ Phần mềm\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
