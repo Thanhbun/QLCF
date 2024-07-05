@@ -7614,23 +7614,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "D:\\devExpress\\Components\\Offline Packages": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TUYEN\\CongNghePhanMem\\clone\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "projectUniqueName": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
       "projectName": "QLCF.Blazor.Server",
-      "projectPath": "D:\\TUYEN\\CongNghePhanMem\\clone\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TUYEN\\CongNghePhanMem\\clone\\QLCF\\QLCF.Blazor.Server\\obj\\",
+      "projectPath": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\devExpress\\Components\\Offline Packages"
+        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7639,16 +7639,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "D:\\devExpress\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TUYEN\\CongNghePhanMem\\clone\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
-              "projectPath": "D:\\TUYEN\\CongNghePhanMem\\clone\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
+            "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
+              "projectPath": "D:\\Công Nghệ Phần mềm\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
             }
           }
         }
