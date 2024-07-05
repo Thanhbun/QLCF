@@ -9,23 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QLCF.Blazor.Server
 build_property.RootNamespace = QLCF.Blazor.Server
-build_property.ProjectDir = E:\test\QLCF\QLCF.Blazor.Server\
+build_property.ProjectDir = E:\viensinoda\QLCF\QLCF.Blazor.Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\test\QLCF\QLCF.Blazor.Server
+build_property.MSBuildProjectDirectory = E:\viensinoda\QLCF\QLCF.Blazor.Server
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/test/QLCF/QLCF.Blazor.Server/App.razor]
+[E:/viensinoda/QLCF/QLCF.Blazor.Server/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/test/QLCF/QLCF.Blazor.Server/_Imports.razor]
+[E:/viensinoda/QLCF/QLCF.Blazor.Server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/test/QLCF/QLCF.Blazor.Server/Pages/_Host.cshtml]
+[E:/viensinoda/QLCF/QLCF.Blazor.Server/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
