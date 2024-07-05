@@ -36,3 +36,16 @@ E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
 E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
+D:\clonegit\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.deps.json
+D:\clonegit\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.dll
+D:\clonegit\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.pdb
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.AssemblyReference.cache
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfoInputs.cache
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfo.cs
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.CoreCompileInputs.cache
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
+D:\clonegit\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
