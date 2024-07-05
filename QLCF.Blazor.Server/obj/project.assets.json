@@ -7615,26 +7615,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\My PC\\.nuget\\packages\\": {},
-    "E:\\DevExpress\\Components\\Offline Packages": {},
-    "D:\\devExpress24.1\\Components\\Offline Packages": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "projectUniqueName": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
       "projectName": "QLCF.Blazor.Server",
-      "projectPath": "E:\\test\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
-      "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
-      "outputPath": "E:\\test\\QLCF\\QLCF.Blazor.Server\\obj\\",
+      "projectPath": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\DevExpress\\Components\\Offline Packages",
-        "D:\\devExpress24.1\\Components\\Offline Packages"
+        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\My PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7643,17 +7640,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "D:\\devExpress24.1\\Components\\System\\Components\\Packages": {},
-        "E:\\DevExpress\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
-              "projectPath": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
+            "E:\\viensinoda\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
+              "projectPath": "E:\\viensinoda\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
             }
           }
         }
@@ -7741,16 +7737,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\test\\QLCF\\QLCF.Blazor.Server\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

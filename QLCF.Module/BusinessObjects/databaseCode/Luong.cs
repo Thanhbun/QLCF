@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Reflection;
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    // task nhanh_4 toàn
     public partial class Luong
     {
         public Luong(Session session) : base(session) { }
