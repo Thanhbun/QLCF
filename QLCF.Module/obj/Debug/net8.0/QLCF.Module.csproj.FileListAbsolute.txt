@@ -23,3 +23,16 @@ D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
 D:\CNPM\QLCF\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json
+E:\test\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.deps.json
+E:\test\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.dll
+E:\test\QLCF\QLCF.Module\bin\Debug\net8.0\QLCF.Module.pdb
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.AssemblyReference.cache
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfoInputs.cache
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.AssemblyInfo.cs
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.csproj.CoreCompileInputs.cache
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.sourcelink.json
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.dll
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\refint\QLCF.Module.dll
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\QLCF.Module.pdb
+E:\test\QLCF\QLCF.Module\obj\Debug\net8.0\ref\QLCF.Module.dll
