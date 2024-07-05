@@ -2247,6 +2247,7 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "analyzers/dotnet/cs/DevExpress.Generator.dll",
+        "analyzers/dotnet/cs/DevExpress.Generator.dll.DFX",
         "devexpress.data.24.1.3.nupkg.sha512",
         "devexpress.data.nuspec",
         "lib/net452/DevExpress.Data.v24.1.dll",
@@ -5373,19 +5374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
-      "projectName": "QLCF.Module",
-      "projectPath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\QLCF.Module.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\DTU\\summer_ss3\\cnpm\\clone ff 1\\QLCF.git\\QLCF.Module\\obj\\",
-=======
       "projectUniqueName": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj",
       "projectName": "QLCF.Module",
       "projectPath": "E:\\test\\QLCF\\QLCF.Module\\QLCF.Module.csproj",
       "packagesPath": "C:\\Users\\My PC\\.nuget\\packages\\",
       "outputPath": "E:\\test\\QLCF\\QLCF.Module\\obj\\",
->>>>>>> dff4a59c0d0ab968a76de5450943bc25efe0ef44
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\DevExpress\\Components\\Offline Packages",
@@ -5524,5 +5517,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\test\\QLCF\\QLCF.Module\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
