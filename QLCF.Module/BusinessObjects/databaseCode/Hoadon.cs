@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Reflection;
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    // Task Thien Hoa Don
     public partial class Hoadon
     {
         public Hoadon(Session session) : base(session) { }
