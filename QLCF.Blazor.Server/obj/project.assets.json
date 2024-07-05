@@ -7615,23 +7615,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {},
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "projectUniqueName": "D:\\clonegit\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
       "projectName": "QLCF.Blazor.Server",
-      "projectPath": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\viensinoda\\QLCF\\QLCF.Blazor.Server\\obj\\",
+      "projectPath": "D:\\clonegit\\QLCF\\QLCF.Blazor.Server\\QLCF.Blazor.Server.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\clonegit\\QLCF\\QLCF.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7640,6 +7643,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -7648,8 +7652,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\viensinoda\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
-              "projectPath": "E:\\viensinoda\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
+            "D:\\clonegit\\QLCF\\QLCF.Module\\QLCF.Module.csproj": {
+              "projectPath": "D:\\clonegit\\QLCF\\QLCF.Module\\QLCF.Module.csproj"
             }
           }
         }
