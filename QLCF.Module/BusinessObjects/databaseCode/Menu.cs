@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Reflection;
 namespace QLCF.Module.BusinessObjects.database
 {
-
+    //TASK Tuyen
     public partial class Menu
     {
         public Menu(Session session) : base(session) { }
